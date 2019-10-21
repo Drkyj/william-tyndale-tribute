@@ -3,69 +3,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/3/w3.css">
 
-<body translate="no">
-  <main id="main">
-
-    <h1 id="title">William Tyndale</h1>
-    <p> The "father" of all English Bibles </p>
-    <figure id="img-div">
-      <img id="image" src="https://live.staticflickr.com/7898/46270285935_2afd67d7bd_w.jpg" alt="tyndale" />
-      <figcaption id="img-caption">
-        Stationers' Hall <br> Original design, Robert Mylne, 1673
-      </figcaption>
-    </figure>
-
-    <section id="tribute-info">
-      <h2 id="headline"> Christian History Timeline: William Tyndale </h2>
-      <ul>
-        <li><strong>c. 1492–95</strong> Tyndale is born</li>
-        <li><strong>1508</strong> A young teenager, he enters Magdalen College at Oxford</li>
-
-        <li><strong>1512</strong> Completes his B.A. at Oxford
-
-          <li><strong>1514–1515</strong> Completes his M.A. at Oxford and is ordained, but refuses to enter monastic orders</li>
-
-          <li><strong>1519</strong> Moves to Cambridge for doctoral studies, then quits</li>
-
-          <li><strong>1521–1523</strong> Begins teaching at Little Sodbury, gets into disputes with priests</li>
-
-          <li><strong>c. 1524</strong> Seeks patronage of Bishop Tunstall and is rebuffed; then, assisted by Monmouth, he travels to Germany and registers at the University of Wittenburg</li>
-
-          <li><strong>1525</strong> In Cologne, he prepares to print an English New Testament; but he is discovered and escapes with only a few printed portions</li>
-
-          <li><strong>1526</strong> He completes the printing in Worms, and smuggled copies of his New Testaments are soon being circulated throughout England</li>
-
-          <li><strong>1527</strong> Bishop Tunstall orders the purchase and burning of all the testaments; but this serves only to finance Tyndale’s second edition</li>
-
-          <li><strong>1527–1530</strong> English agents seek to capture Tyndale on the Continent; he keeps moving, and writing</li>
-
-          <li><strong>1530</strong> His translation of the the first five books of the Old Testament appears in England</li>
-
-          <li><strong>1531</strong> He meets Henry’s agent Steven Vaughan, but declines the king’s invitation to return to England</li>
-
-          <li><strong>1531</strong> Sir Thomas More begins writing against Tyndale</li>
-
-          <li><strong>1533</strong> His good friend, John Frith, is burned at the stake in Smithfield</li>
-
-          <li><strong>1534</strong> He moves into Thomas Poyntz’s English merchants’ boarding house in Antwerp</li>
-
-          <li><strong>1535</strong> King’s agent Henry Phillips arrives in Antwerp and befriends Tyndale, then arranges to have him arrested while the Poyntzes are out of town; Tyndale is cast into Vilvoorde prison near Antwerp</li>
-
-          <li><strong>1536</strong> Fifteen months later at Vilvoorde, Tyndale is strangled to death and his body burned at the stake</li>
-      </ul>
-
-      <blockquote cite="https://www.telegraph.co.uk/culture/tvandradio/10096770/Melvyn-Bragg-on-William-Tyndale-his-genius-matched-that-of-Shakespeare.html">
-        William Tyndale was burned at the stake for translating the Bible into English. He loaded our language with more phrases than any other writer before or since. <br> -- Melvyn Bragg.
-      </blockquote>
-
-  </main>
-
-  <h3>Click here to view more on<a href="https://afaithfulversion.org/commentary-william/">William Tyndale</a>.</h3>
-
-</body>
-
-</html>
-
+<style>
 html {
 /*
   Setting a base font size of 10px give us easier rem calculations
@@ -154,3 +92,67 @@ blockquote {
   margin: 0 auto 50px auto;
   text-align: left;
 }
+</style>
+
+<body translate="no">
+  <main id="main">
+
+    <h1 id="title">William Tyndale</h1>
+    <p> The "father" of all English Bibles </p>
+    <figure id="img-div">
+      <img id="image" src="https://live.staticflickr.com/7898/46270285935_2afd67d7bd_w.jpg" alt="tyndale" />
+      <figcaption id="img-caption">
+        Stationers' Hall <br> Original design, Robert Mylne, 1673
+      </figcaption>
+    </figure>
+
+    <section id="tribute-info">
+      <h2 id="headline"> Christian History Timeline: William Tyndale </h2>
+      <ul>
+        <li><strong>c. 1492–95</strong> Tyndale is born</li>
+        <li><strong>1508</strong> A young teenager, he enters Magdalen College at Oxford</li>
+
+        <li><strong>1512</strong> Completes his B.A. at Oxford
+
+          <li><strong>1514–1515</strong> Completes his M.A. at Oxford and is ordained, but refuses to enter monastic orders</li>
+
+          <li><strong>1519</strong> Moves to Cambridge for doctoral studies, then quits</li>
+
+          <li><strong>1521–1523</strong> Begins teaching at Little Sodbury, gets into disputes with priests</li>
+
+          <li><strong>c. 1524</strong> Seeks patronage of Bishop Tunstall and is rebuffed; then, assisted by Monmouth, he travels to Germany and registers at the University of Wittenburg</li>
+
+          <li><strong>1525</strong> In Cologne, he prepares to print an English New Testament; but he is discovered and escapes with only a few printed portions</li>
+
+          <li><strong>1526</strong> He completes the printing in Worms, and smuggled copies of his New Testaments are soon being circulated throughout England</li>
+
+          <li><strong>1527</strong> Bishop Tunstall orders the purchase and burning of all the testaments; but this serves only to finance Tyndale’s second edition</li>
+
+          <li><strong>1527–1530</strong> English agents seek to capture Tyndale on the Continent; he keeps moving, and writing</li>
+
+          <li><strong>1530</strong> His translation of the the first five books of the Old Testament appears in England</li>
+
+          <li><strong>1531</strong> He meets Henry’s agent Steven Vaughan, but declines the king’s invitation to return to England</li>
+
+          <li><strong>1531</strong> Sir Thomas More begins writing against Tyndale</li>
+
+          <li><strong>1533</strong> His good friend, John Frith, is burned at the stake in Smithfield</li>
+
+          <li><strong>1534</strong> He moves into Thomas Poyntz’s English merchants’ boarding house in Antwerp</li>
+
+          <li><strong>1535</strong> King’s agent Henry Phillips arrives in Antwerp and befriends Tyndale, then arranges to have him arrested while the Poyntzes are out of town; Tyndale is cast into Vilvoorde prison near Antwerp</li>
+
+          <li><strong>1536</strong> Fifteen months later at Vilvoorde, Tyndale is strangled to death and his body burned at the stake</li>
+      </ul>
+
+      <blockquote cite="https://www.telegraph.co.uk/culture/tvandradio/10096770/Melvyn-Bragg-on-William-Tyndale-his-genius-matched-that-of-Shakespeare.html">
+        William Tyndale was burned at the stake for translating the Bible into English. He loaded our language with more phrases than any other writer before or since. <br> -- Melvyn Bragg.
+      </blockquote>
+
+  </main>
+
+  <h3>Click here to view more on<a href="https://afaithfulversion.org/commentary-william/">William Tyndale</a>.</h3>
+
+</body>
+
+</html>
